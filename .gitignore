@@ -1,0 +1,8 @@
+# Editor / tooling
+.claude/
+.impeccable/
+.vscode/
+
+# OS junk
+Thumbs.db
+.DS_Store
